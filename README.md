@@ -1,5 +1,5 @@
 # Zachal’s SimplifyMyi App Repo
-> — Currently available to iOS 8.4 users only. You may attempt on the systems, but there is no guarantee as to it’s functionality/reliability, and this may break your iPhone.
+> — Currently available to iOS 8.4 users only. You may attempt on other systems, but there is no guarantee as to it’s functionality/reliability, and this may break your iPhone.
 
 # Simplify My i —
 > Simplify your i(Phone/Pad/Touch/Whatever), removing all the “Stock” apps you don’t ever use.
